@@ -108,6 +108,9 @@
  - About us
  - Trainers Information
  - Customer Reviews
+ 
+ ![image](https://user-images.githubusercontent.com/112810259/233776810-9c86ee02-7bde-49ca-af63-a3fea21f5be0.png)
+
 
 ## Features
  - SHOULDER TRAINING MACHINES
@@ -120,6 +123,9 @@
  - CARDIO MACHINES
  - HOME GYM
  - ACCESSORIES
+ 
+ ![image](https://user-images.githubusercontent.com/112810259/233776767-b961347f-c390-4f7b-8c03-fb35668ef23f.png)
+
 
 
 
@@ -162,6 +168,9 @@
  ## Trainer end points
   - Get all trainer
    - https://good-tan-jay.cyclic.app/trainer
+   
+   ![image](https://user-images.githubusercontent.com/112810259/233776830-7d4d2f5c-8765-48ea-991d-5816be33c31b.png)
+
   
   - Add new trainer
    - https://good-tan-jay.cyclic.app/trainer/add
